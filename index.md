@@ -7,7 +7,7 @@ Hello there! My name is Claudia, and this is my portfolio. Here, I showcase my p
 
 I'm a passionate software engineering  with experience in Java, Java Scritp,C++,HTML,CSS,MYSQL. I love solving problems and turning ideas into reality using technology.
 
-![A picture of me](https://media.licdn.com/dms/image/C4E03AQHowJQgLxEmwA/profile-displayphoto-shrink_800_800/0/1589134165731?e=2147483647&v=beta&t=PSFLbjehPOmED1-Xx_0bDM9kPz4ABbMG2UPCJ8NbDEk)
+<img src="https://media.licdn.com/dms/image/C4E03AQHowJQgLxEmwA/profile-displayphoto-shrink_800_800/0/1589134165731?e=1704326400&v=beta&t=IwbeU2FV3G943Tmigh_Dk2U5ASg5hFcK2bgRDa9g_gM" width="300">
 
 ## My Projects
 
